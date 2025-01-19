@@ -1,4 +1,4 @@
-# Multilevel Image Thresholding using Nature-Inspired Algorithms
+# Multilevel Image Thresholding using Evolutionary optimization algorithms
 
 This repository is the official implementation of the [paper](https://ieeexplore.ieee.org/abstract/document/8960178) titled "Antlion optimization and Whale optimization Algorithm for multilevel thresholding segmentation" published in i-PACT-2019 (Innovations in Power and Advanced Computing Technologies), IEEE.
 
